@@ -84,6 +84,11 @@ mvn clean
 ```
 mvn package
 ```
+Ingresar a Mysql y ejecutar :
+
+```
+CREATE DATABASE fravega;
+```
 ## Despliegue 📦
 
 - Nos posicionamos en el directorio /api/target y ejecutamos el comando :
